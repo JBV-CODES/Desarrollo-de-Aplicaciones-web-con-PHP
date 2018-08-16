@@ -13,5 +13,5 @@
 8. [Archivos](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/2.md)
 9. [Sesiónes](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte2/3.md)
 
-[book-image]: https://pictures.abebooks.com/isbn/9788426723178-es-300.jpg 
+[book-image]: https://www.agapea.com/Marcombo/Desarrollo-de-aplicaciones-web-con-PHP-i1n13514888.jpg 
 [book-url]: https://www.marcombo.com/desarrollo-de-aplicaciones-web-con-php-9788426723178/
