@@ -1,7 +1,7 @@
 # Desarrollo de Aplicaciones web con PHP
 [![978-84-267-2317-8][book-image]][book-url]
 [LIB.UPV](https://polibuscador.upv.es/primo-explore/search?vid=bibupv&sortby=rank&lang=es_ES)
-#### Ejemplares: E1: B 4-69/1200 E2: N 4-69/1313
+Ejemplares: E1: B 4-69/1200 E2: N 4-69/1313
 --------------------------------------------------
 1. [Intro. al HTML5](https://github.com/JBV-CODES/Desarrollo-de-Aplicaciones-web-con-PHP/capitulo1/1.md)
 2. [Intro. al PHP](https://github.com/JBV-CODES/Pro-PHP-6/blob/master/Parte1/2.md)
